@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working at Elegant Media
+- 🔭 I’m currently working at Elegant Media as Fluuter training lead
 - 🌱 I’m currently learning Flutter ❤️
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with Flutter.
