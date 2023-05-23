@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working at Elegant Media as Fluuter training lead
-- 🌱 I’m currently learning Flutter ❤️
+- 🌱 I’m currently learning React Native /Flutter ❤️
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with Flutter.
 - 💬 Ask me about Native Android, Flutter or any tech related stuff.
